@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"fmt"
-	"myapp/app/models/randstring"
+	"goost/app/models/randstring"
 	"strconv"
 	"strings"
 	"time"

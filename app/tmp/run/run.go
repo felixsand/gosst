@@ -10,9 +10,9 @@ import (
 	controllers "github.com/revel/modules/static/app/controllers"
 	_ "github.com/revel/modules/testrunner/app"
 	controllers0 "github.com/revel/modules/testrunner/app/controllers"
-	_ "myapp/app"
-	controllers1 "myapp/app/controllers"
-	tests "myapp/tests"
+	_ "goost/app"
+	controllers1 "goost/app/controllers"
+	tests "goost/tests"
 	"github.com/revel/revel/testing"
 )
 

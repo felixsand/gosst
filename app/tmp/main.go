@@ -6,7 +6,7 @@ package main
 
 import (
 	"flag"
-	"myapp/app/tmp/run"
+	"goost/app/tmp/run"
 	"github.com/revel/revel"
 )
 
