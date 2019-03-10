@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Felix Sandström -- Developer -- https://se.linkedin.com/in/felixsandstrom
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JS
+    JQuery, Twitter Bootstrap, Vue.JS, Normalize.css, Fetch
+    PhPsst (https://github.com/felixsand/PhPsst)
+    Docker, Apache, PHP
+
+# SPECIAL THANKS
+Icon from: https://www.smashingmagazine.com/2014/11/freebie-boldons-icon-set-45-icons-png-ai/

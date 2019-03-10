@@ -1,0 +1,16 @@
+{
+  "name": "PhPsst",
+  "short_name": "PhPsst",
+  "start_url": ".",
+  "lang": "en-US",
+  "orientation": "any",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "A solution for distributing (one time) passwords/secrets in a more secure way",
+  "icons": [{
+    "src": "manifest-icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
